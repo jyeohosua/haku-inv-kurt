@@ -8,7 +8,7 @@ yesBtn.addEventListener("click", () => {
   gif.style.width = gif.getBoundingClientRect().width + "px";
   gif.style.height = gif.getBoundingClientRect().height + "px";
   question.innerHTML = "Touchmove! See you later & plan together, ilysm <3";
-  gif.src ="https://media.giphy.com/media/65wE7Exx1eKZGYIP0G/giphy.gif";
+  gif.src ="https://media.giphy.com/media/Vvl3JNd2XfN1uC09S4/giphy.gif";
   noBtn.style.opacity = "0";
   yesBtn.style.marginLeft = "0px";
 });
